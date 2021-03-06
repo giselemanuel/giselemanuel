@@ -22,10 +22,6 @@ Here are some ideas to get you started:
 ---
 
  I’m currently studing to become a Data Analysts. 🚀 
-*  Learning 
-    - Python
-    - MongoDB
-    - Docker
 
  Pronouns: She/Her 👩
 
