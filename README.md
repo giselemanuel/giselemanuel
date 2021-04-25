@@ -40,3 +40,22 @@ me = AboutMe()
 ---
 
  ## **Get in Touch:**
+ ----
+
+
+
+[![Profile][image-linkedin]][url-linkedin] [![Profile][image-linketree]][url-linketree]  [![Profile][image-gmail]][url-gmail]
+
+[image-gmail]: imagens/gmail.png
+[url-gmail]: giselermanuel@gmail.com
+
+[image-linketree]: imagens/linktree.png
+[url-linketree]:https://linktr.ee/giselemanuel
+
+[image-linkedin]: imagens/linkedin.png
+[url-linkedin]:https://www.linkedin.com/in/giselemanuelti/
+
+
+
+
+
