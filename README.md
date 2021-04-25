@@ -41,8 +41,6 @@ me = AboutMe()
 
  ## **Get in Touch:**
  ----
-
- ![image-linkedin](imagens/linkedin.png) ![image-linktree](imagens/linktree.png) ![image-gmail](imagens/gmail.png)
  
  <img src="https://github.com/giselemanuel/giselemanuel/blob/main/imagens/linkedin.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="50" height="50" /> <img src="https://github.com/giselemanuel/giselemanuel/blob/main/imagens/linktree.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="50" height="50" /> <img src="https://github.com/giselemanuel/giselemanuel/blob/main/imagens/gmail.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="50" height="50" />
 
