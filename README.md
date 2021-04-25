@@ -42,7 +42,7 @@ me = AboutMe()
  ## **Get in Touch:**
  ----
  
- <img src="https://github.com/giselemanuel/giselemanuel/blob/main/imagens/linkedin.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="50" height="50" /> <img src="https://github.com/giselemanuel/giselemanuel/blob/main/imagens/linktree.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="50" height="50" /> <img src="https://github.com/giselemanuel/giselemanuel/blob/main/imagens/gmail.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="50" height="50" />
+ <a href="//https://www.linkedin.com/in/giselemanuelti/"><img src="https://github.com/giselemanuel/giselemanuel/blob/main/imagens/linkedin.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="50" height="50" /> <img src="https://github.com/giselemanuel/giselemanuel/blob/main/imagens/linktree.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="50" height="50" /> <img src="https://github.com/giselemanuel/giselemanuel/blob/main/imagens/gmail.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="50" height="50" />
  
  ![](https://github.com/giselemanuel/giselemanuel/blob/main/imagens/linktree.png=200)
 
