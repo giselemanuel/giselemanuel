@@ -42,7 +42,9 @@ me = AboutMe()
  ## **Get in Touch:**
  ----
 
+ ![image-linkedin](imagens/linkedin.png) ![image-linktree](imagens/linktree.png) ![image-gmail](imagens/gmail.png)
 
+<!--
 
 [![Profile][image-linkedin]][url-linkedin] [![Profile][image-linketree]][url-linketree]  [![Profile][image-gmail]][url-gmail]
 
@@ -55,6 +57,7 @@ me = AboutMe()
 [image-linkedin]: imagens/linkedin.png
 [url-linkedin]:https://www.linkedin.com/in/giselemanuelti/
 
+-->
 
 
 
