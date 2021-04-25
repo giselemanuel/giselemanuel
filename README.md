@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
-# Hi, I'm Gisele 🦄
+# Hi, I'm Gisele <img src="https://github.com/giselemanuel/giselemanuel/blob/main/imagens/meEmoji.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="50" height="50" />
 
 ```python
 class AboutMe:
@@ -38,14 +38,13 @@ class AboutMe:
 me = AboutMe()
 ```
 ---
-
  ## **Get in Touch:**
- ----
+----
  
  <a href="//www.linkedin.com/in/giselemanuelti/"><img src="https://github.com/giselemanuel/giselemanuel/blob/main/imagens/linkedin.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="50" height="50" /> <a href="//linktr.ee/giselemanuel"><img src="https://github.com/giselemanuel/giselemanuel/blob/main/imagens/linktree.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="50" height="50" /> <a href="//giselermanuel@gmail.com"><img src="https://github.com/giselemanuel/giselemanuel/blob/main/imagens/gmail.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="50" height="50" />
  
- ![](https://github.com/giselemanuel/giselemanuel/blob/main/imagens/linktree.png=200)
-
+ 
+ 
 <!--
 
 [![Profile][image-linkedin]][url-linkedin] [![Profile][image-linketree]][url-linketree]  [![Profile][image-gmail]][url-gmail]
