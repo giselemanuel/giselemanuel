@@ -30,7 +30,7 @@ class AboutMe:
             'IDE' : ['Pycharm', 'Intellij', 'Vs Code'],
             'tools' : ['Git', 'GitHub', 'Trelo'],
             'agile' : ['Kanban', 'Scrum', 'Design Thinking'],
-            'Learning' : ['Docker', 'NoSQL', 'DynamoDB', 'Pandas', 'Numpy', 'HTML', 'CSS', 'JavaScript']
+            'Learning' : ['Docker', 'NoSQL', 'DynamoDB', 'Pandas', 'Numpy']
         }
     def introduce_myself(self):
         return self.name 
@@ -40,15 +40,3 @@ me = AboutMe()
 ---
 
  ## **Get in Touch:**
- 
-[![Linkedin][image-linkedin]][image-url-ld] 
-[![Linktree][image-linktree]][image-url-lk]
-[![Gmail][image-gmail]][image-url-g] 
-
-
-[image-linkedin]:linkedin.jpg
-[image-url-ld]:https://www.linkedin.com/in/giselemanuelti/
-[image-linktree]:linktree.png
-[image-url-lk]:https://linktr.ee/giselemanuel
-[image-gmail]:gmail.png
-[image-url-g]:giselermanuel@gmail.com
