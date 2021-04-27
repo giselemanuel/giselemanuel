@@ -1,21 +1,4 @@
-
-
-<!--
-**giselemanuel/giselemanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
----
-
-
- I’m Bachelor’s degree in Information System from the PUC – Campinas, I specialized in Project Management from Fundação Getúlio Vargas – FGV and also Professional Coach from Brazilian Coach Institute (IBC). I’ve been working as an IT professional over last 7 years. I have built a solid career with a great experience working with management of KPI, process management and continuous improvement, IT Governance, Project Management, IT service support, management of IT normative documents and contract management.  
-
- ## Projects 💻
----
- >I’m currently studing to become a Data Analysts. 🚀 
----
-
--->
-
+ 
 # Hi, I'm Gisele <img src="https://github.com/giselemanuel/giselemanuel/blob/main/imagens/meEmoji.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="50" height="50" />
 
 ```python
@@ -37,6 +20,7 @@ class AboutMe:
 
 me = AboutMe()
 ```
+![Profile View Counter](https://komarev.com/ghpvc/?username=giselermanuel)
 ---
  ## **Get in Touch:**
 ----
