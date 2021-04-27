@@ -22,7 +22,10 @@ me = AboutMe()
 ```
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=giselemanuel" alt="giselemanuel" /> </p>
 
- <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=giselemanuel&count_private=true&show_icons=true&hide_border=true&theme=react" href="https://github.com/giselemanuel"/>
+---
+
+<img alt="My Github stats" align="center" border-radius="40px" width="8000px" height="200px" src="https://github-readme-stats.vercel.app/api?username=giselemanuel&count_private=true&show_icons=true&hide_border=true&theme=react" href="https://github.com/giselemanuel"/>
+
 
 ---
  ## **Get in Touch:**
