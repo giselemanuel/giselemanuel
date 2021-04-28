@@ -13,7 +13,7 @@ class AboutMe:
             'IDE' : ['Pycharm', 'Intellij', 'Vs Code'],
             'tools' : ['Git', 'GitHub', 'Trelo'],
             'agile' : ['Kanban', 'Scrum', 'Design Thinking'],
-            'Learning' : ['Docker', 'NoSQL', 'DynamoDB', 'Pandas', 'Numpy']
+            'Learning' : ['Docker','PostgreSQL', 'NoSQL', 'DynamoDB', 'Pandas', 'Numpy', 'Java']
         }
     def introduce_myself(self):
         return self.name 
