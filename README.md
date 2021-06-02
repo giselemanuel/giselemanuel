@@ -8,12 +8,12 @@ class AboutMe:
         self.pronouns = 'She/Her'
         self.style = 'Code like a girl'
         self.skills = {
-            'backend' : ['Python', 'Java'],
+            'backend' : ['Python', 'Java', 'Spring Boot'],
             'database' : ['MySql', 'PostgreSQL'],
             'IDE' : ['Pycharm', 'Intellij', 'Vs Code'],
             'tools' : ['Git', 'GitHub', 'Trelo'],
             'agile' : ['Kanban', 'Scrum', 'Design Thinking'],
-            'Learning' : ['Docker','PostgreSQL', 'NoSQL', 'DynamoDB', 'Pandas', 'Numpy', 'Java', 'Spring Boot']
+            'Learning' : ['Docker','PostgreSQL', 'NoSQL', 'DynamoDB', 'Pandas', 'Numpy']
         }
     def introduce_myself(self):
         return self.name 
